@@ -1,3 +1,11 @@
+# RoadCanvas
+
+> RoadCanvas — Sovereign image generation. BlackRoad fork of Stable Diffusion. AI art on Pi fleet.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # Stable Diffusion web UI
 A web interface for Stable Diffusion, implemented using Gradio library.
 
